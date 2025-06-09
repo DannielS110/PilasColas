@@ -75,21 +75,38 @@ Output: [1, 2, 4, 5] (tope → 1)
 🏗️ ARQUITECTURA DEL PROYECTO
 
 📂 src/
-├── 📁 Ejercicio_01_sign/             ← 🔍 VALIDADOR DE SIGNOS
+├── 📁 Ejercicio_01_sign/           ← 🔍 VALIDADOR DE SIGNOS
+
 │   └── 🧠 SignValidator.java         ← Algoritmo de balanceo perfecto
+
+
 ├── 📁 Ejercicio_02_sorting/          ← 📊 ORDENADOR DE STACK
+
+
 │   └── 🚀 StackSorter.java           ← Algoritmo de ordenamiento eficiente
+
 ├── 📁 Materia/                       ← 🎪 ESTRUCTURAS BASE
+
 │   ├── 📁 Controllers/               ← Controladores de estructuras
+
 │   │   ├── Stack.java               ← Pila básica
+
 │   │   ├── StackG.java              ← Pila genérica
+
 │   │   ├── Queue.java               ← Cola básica
+
 │   │   └── QueueG.java              ← Cola genérica
+
 │   └── 📁 models/                    ← Modelos de datos
+
 │       ├── Node.java                ← Nodo básico
+
 │       ├── NodeGeneric.java         ← Nodo genérico
+
 │       └── Persona.java             ← Modelo Persona
+
 ├── 🎯 App.java                       ← Aplicación principal
+
 └── 📜 README.md                      ← Este documento épico
 
 -------------------------------------------------------------------------------------------------------------
