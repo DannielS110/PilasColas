@@ -130,4 +130,5 @@ directo en desarrollo web y compiladores, mientras que el ordenamiento de stacks
 -------------------------------------------------------------------------------------------------------------
 
 Desarrollado con 💝, mucho ☕ para la Universidad Politécnica Salesiana
+
 © 2025 Daniel Sánchez - Estructura de Datos, Segundo Interciclo
