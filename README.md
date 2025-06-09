@@ -75,6 +75,7 @@ Output: [1, 2, 4, 5] (tope → 1)
 🏗️ ARQUITECTURA DEL PROYECTO
 
 📂 src/
+
 ├── 📁 Ejercicio_01_sign/           ← 🔍 VALIDADOR DE SIGNOS
 
 │   └── 🧠 SignValidator.java         ← Algoritmo de balanceo perfecto
