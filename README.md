@@ -20,7 +20,7 @@ Asignatura Estructura de Datos
 👨‍💻 Estudiante  Daniel Sánchez
 
 
-📅 Fecha08 / 06 / 2025
+📅 Fecha 08 / 06 / 2025
 
 
 👨‍🏫 Profesor Ing. Pablo Torres
