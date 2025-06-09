@@ -14,7 +14,7 @@ Asignatura Estructura de Datos
 - Segundo Interciclo
 
   
--🏫 CarreraComputación
+-🏫 Carrera Computación
 
 
 👨‍💻 Estudiante  Daniel Sánchez
