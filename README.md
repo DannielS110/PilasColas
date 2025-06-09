@@ -23,7 +23,7 @@ Asignatura Estructura de Datos
 📅 Fecha08 / 06 / 2025
 
 
-👨‍🏫 ProfesorIng. Pablo Torres
+👨‍🏫 Profesor Ing. Pablo Torres
 
 -------------------------------------------------------------------------------------------------------------
 
