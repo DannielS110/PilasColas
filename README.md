@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------
 📌 INFORMACIÓN
 
-🎓 Campo📝 Universidad Politécnica Salesiana
+🎓Universidad Politécnica Salesiana
 
 
 Detalle📚 
