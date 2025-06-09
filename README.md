@@ -3,10 +3,12 @@
 -------------------------------------------------------------------------------------------------------------
 📌 INFORMACIÓN
 
-🎓 Campo📝 
+🎓 Campo📝 Universidad Politécnica Salesiana
 
 
-Detalle📚 AsignaturaEstructura de Datos 
+Detalle📚 
+
+Asignatura Estructura de Datos 
 
 
 - Segundo Interciclo
@@ -106,3 +108,8 @@ la comprensión del uso de estructuras lineales.
 Los ejercicios implementados demuestran la aplicabilidad práctica de las pilas en problemas reales como validación de sintaxis y ordenamiento con restricciones. La validación de signos balanceados tiene uso 
 
 directo en desarrollo web y compiladores, mientras que el ordenamiento de stacks enseña optimización bajo limitaciones específicas.
+
+-------------------------------------------------------------------------------------------------------------
+
+Desarrollado con 💝, mucho ☕ para la Universidad Politécnica Salesiana
+© 2025 Daniel Sánchez - Estructura de Datos, Segundo Interciclo
